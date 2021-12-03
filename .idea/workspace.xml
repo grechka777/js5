@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7988501-e771-41b3-b2a2-67f4d6d79395" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
+    <list default="true" id="c7988501-e771-41b3-b2a2-67f4d6d79395" name="Default Changelist" comment="ni">
+      <change beforePath="$PROJECT_DIR$/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +65,16 @@
       <updated>1638549171708</updated>
       <workItem from="1638549172838" duration="155000" />
       <workItem from="1638549853310" duration="3192000" />
-      <workItem from="1638555490858" duration="5000" />
+      <workItem from="1638555490858" duration="448000" />
     </task>
+    <task id="LOCAL-00001" summary="ni">
+      <created>1638555532456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638555532456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +90,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ni" />
+    <option name="LAST_COMMIT_MESSAGE" value="ni" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="674" y="419" key="Vcs.Push.Dialog.v2" timestamp="1638555889977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="419" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1638555889977" />
   </component>
 </project>
