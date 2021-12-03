@@ -25,7 +25,7 @@ d.addEventListener('click', function (event) {
 
     }
 
-    if (d1 < 0) alert("Корней нет")
+    if (d1 < 0) alert("Корней нет");
 
 
 
